@@ -129,9 +129,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to 
 This project is licensed under the MIT-0 License. See the [LICENSE](./LICENSE) file for details.
 
 ## Additional Resources
-- AWS Documentation
-
- "C:\Users\reddy\Downloads\AWS Three-Tier Web Architecture.pdf"
 
 - Architecture diagrams
 
@@ -142,9 +139,12 @@ Steps for implementation processes:-
 
 ![image](https://github.com/user-attachments/assets/7f904e20-439b-4b59-a5ed-413e0c019017)
 
+
 ![image](https://github.com/user-attachments/assets/ec4d67be-3c92-407f-8a10-f9ee9fc19381)
 
+
 ![image](https://github.com/user-attachments/assets/a6d94a73-0344-45e9-a0b1-a3c08dbeb184)
+
 
 ![image](https://github.com/user-attachments/assets/a0f465f0-2612-458e-be5f-b6f20fc88984)
 
